@@ -1,0 +1,24 @@
+{
+  "name": "kc-tokenize",
+  "version": "1.0.1",
+  "description": "[nodejs] Tokenize data.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/node-tokenize.git"
+  },
+  "keywords": [
+    "tokenize",
+    "data"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/node-tokenize/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/node-tokenize",
+  "dependencies": {
+    "kc-aes256": "^1.0.7",
+    "kc-timespan": "^1.0.4"
+  }
+}
