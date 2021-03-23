@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/node-tokenize.git"
+    "url": "https://github.com/kaisarsnippets/node-tokenize.git"
   },
   "keywords": [
     "tokenize",
@@ -14,9 +14,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/node-tokenize/issues"
+    "url": "https://github.com/kaisarsnippets/node-tokenize/issues"
   },
-  "homepage": "https://github.com/KaisarCode/node-tokenize",
+  "homepage": "https://github.com/kaisarsnippets/node-tokenize",
   "dependencies": {
     "kc-aes256": "^1.0.7",
     "kc-timespan": "^1.0.4"
